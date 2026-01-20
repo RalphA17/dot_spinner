@@ -7,7 +7,6 @@ This is a small project that is designed to be used as a loading screen. This pr
 
 <!-- Technologies you used -->
 - HTML
-- CSS
 
 ## The Process
 
