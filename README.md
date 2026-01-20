@@ -11,7 +11,7 @@ This is a small project that is designed to be used as a loading screen. This pr
 ## The Process
 
 <!-- The process of how I build it -->
-I wanted to keep the animation simple and effective. I decieded to keep the animation in the center of the screen and create one dot that would hold the fading animation. My goal was create 12 dots but only had the darkest color dot go in a circular like motion. One dot moving clockwise as the fading of the previous dot becomes lighter. Using the animation delay by -0.1 for each dot I could create the illusion of the dot fading. 
+I wanted to keep the animation simple and effective. I decieded to keep the animation in the center of the screen and create one dot that would hold the fading animation. My goal was create 12 dots but only had the darkest color dot go in a circular like motion. One dot moving clockwise as the fading of the previous dot becomes lighter. Using the animation delay by -0.1 for each dot I could create the illusion of the dot fading. This project was created using **Visual Studio**. 
 
 
 ## What I learned
@@ -28,6 +28,11 @@ If I had time to improve this project today I would include other spinning anima
 ## Running the project
 
 <!-- How others can access your project and allow them to run it -->
+1. Select the dot_spinner.html
+2. Inside the **code** section your looking for an icon on the right side that should say **"Download raw file"**.
+3. Once the html is downloaded you can run it inside your IDE or code editor. 
+
+
 
 ## Video
 
